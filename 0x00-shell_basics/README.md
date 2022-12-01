@@ -1,1 +1,1 @@
-where am I
+a script that prints absolute path of current working directory
