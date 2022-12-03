@@ -1,1 +1,1 @@
-script to switch current user betty
+script that copies all html files
