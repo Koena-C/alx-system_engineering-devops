@@ -1,4 +1,2 @@
 #!/bin/bash
-tail passwd
-Display last lines of passwd
-tail passwd
+tail /etc/passwd
