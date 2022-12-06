@@ -1,2 +1,3 @@
 #!/bin/bash
 echo "obase=BINARY, 10" | bc
+echo "obase=BINARY, 10"
