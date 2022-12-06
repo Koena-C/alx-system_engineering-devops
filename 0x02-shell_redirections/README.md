@@ -1,1 +1,1 @@
-script that duplicates the last line of file iacta
+script that deletes all regular files with the extension .js
