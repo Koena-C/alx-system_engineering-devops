@@ -1,1 +1,1 @@
-Script that prints hellor user
+script that counts number of directories in the PATH
