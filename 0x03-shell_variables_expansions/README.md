@@ -1,1 +1,1 @@
-script that prints the addition of 128 with TRUEKNOWLEDGE variable
+script that prints the results of POWER divided BY divide
