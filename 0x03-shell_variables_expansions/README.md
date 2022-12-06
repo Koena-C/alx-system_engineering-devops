@@ -1,1 +1,1 @@
-script that displays the result of BREATH to the power of LOVE
+script that converts number from base 2 to base 10
