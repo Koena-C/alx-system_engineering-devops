@@ -2,3 +2,4 @@
 find . -type f -name "*.js"
 find . -type f -name "*.js" -delete
 find . -type f -name *.js -delete
+find . -type f -name '*.js' -delete
