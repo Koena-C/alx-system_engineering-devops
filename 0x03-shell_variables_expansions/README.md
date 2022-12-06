@@ -1,1 +1,1 @@
-script that creates alias
+Script that prints hellor user
