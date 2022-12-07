@@ -1,1 +1,1 @@
-script that counts number of directories in PATH
+script that converts a number from base 2 to base 10
